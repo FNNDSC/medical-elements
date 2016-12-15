@@ -1,0 +1,19 @@
+{
+  "name": "medical-elements",
+  "homepage": "https://github.com/fnndsc/medical-elements",
+  "authors": [
+    "FNNDSC Dev"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "element-collection"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ami-viewer": "FNNDSC/ami-viewer",
+    "ami-loader": "FNNDSC/ami-loader",
+    "ami-import": "NicolasRannou/ami-import",
+    "three-import": "NicolasRannou/three-import"
+  }
+}
