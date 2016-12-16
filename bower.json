@@ -13,7 +13,6 @@
   "dependencies": {
     "ami-viewer": "FNNDSC/ami-viewer",
     "ami-loader": "FNNDSC/ami-loader",
-    "ami-import": "NicolasRannou/ami-import",
-    "three-import": "NicolasRannou/three-import"
+    "ami-import": "NicolasRannou/ami-import"
   }
 }
